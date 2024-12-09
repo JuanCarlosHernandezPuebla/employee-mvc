@@ -12,7 +12,7 @@
 	<artifactId>employee</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>employee</name>
-	<description>Spring Boot REST Employee API</description>
+	<description>Spring MVC Employee app</description>
 	<url/>
 	<licenses>
 		<license/>
