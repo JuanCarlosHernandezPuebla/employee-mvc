@@ -1,5 +1,5 @@
 # employee-mvc
-Spring MVC Employee app. Provides CRUD functionality for Viewing, Adding, Updating, and Deleting an employee. Using MySQL as database.
+Spring MVC Employee app. Provides CRUD functionality for Viewing, Adding, Updating, and Deleting an employee. Using MySQL for database.
 
 ## Pages/Views/Work Flows
 
